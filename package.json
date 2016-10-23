@@ -1,0 +1,19 @@
+{
+  "name": "prueba2app",
+  "version": "1.0.0",
+  "description": "Trabajo para prueba 2 de del ramo APWE UCN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wilson Carvajal, Juan Pizarro",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "nodemon": "^1.11.0"
+  }
+}

@@ -1,0 +1,32 @@
+<body ng-app="noticiaApp">
+
+	<h1 id="logo">
+
+	</h1>
+
+	<div id='main' class="container" ng-controller="mainController" data-ng-init="cargarNoticias()" >
+
+
+		<div class="col-sm-5 col-sm-offset-2 col-md-12 col-md-offset-0">
+			<div class="clearfix">
+				<div id="contenido">
+					<h4>NOTICIAS </h4>
+					<dir-pagination-controls
+							[max-size="10"]
+							[direction-links="true"]
+							[boundary-links="true"]>
+					</dir-pagination-controls>
+					<div  dir-paginate="noticia in noticias | orderBy:'fecha':true| itemsPerPage:2" ng-class-odd="'odd'" ng-class-even="'even'">
+						<a href="#/detalleNoticias/{{noticia.id}}"> <h2>{{noticia.titulo}}</h2> </a>
+						<p >{{noticia.descripcion| limitTo:25}} <a href="#/detalleNoticias/{{noticia.id}}"> Ver más....</a> </p>
+						<p>{{noticia.fecha}}</p>
+						<img src={{noticia.img}}>
+					</div>
+
+				</div>
+			</div>
+		</div>
+		
+	</div>
+	
+</body>

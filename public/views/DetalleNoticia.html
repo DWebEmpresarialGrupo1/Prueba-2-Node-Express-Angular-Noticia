@@ -1,0 +1,12 @@
+
+<body ng-app="noticiaApp">
+
+<h1>Entró a esto wena loco!</h1>
+
+<div id='main' class="container" ng-controller="mainController" data-ng-init="detalleNoticia()">
+
+    <h1>{{noticiaDetalle.titulo}}</h1>
+    <h4><p ng-bind-html="noticiaDetalle.descripcion | linky "> </p></h4>
+
+</div>
+
