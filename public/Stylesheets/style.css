@@ -51,14 +51,20 @@ div#contenido {
    
 }
 
-h4 {
-	padding: 10px;
+h4, h2 , p, a, img{
+	padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
 }
 
 #logo {
-	padding-left:120px;
+	padding-left:400px;
 }
 #logo img{
 	width: 360px;
 	height: 100px;
+}
+
+dir-pagination-controls {
+    padding-left: 10px;
 }
