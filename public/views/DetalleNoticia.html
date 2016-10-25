@@ -3,9 +3,17 @@
 
 <div id='detalle' class="container" ng-controller="mainController" data-ng-init="detalleNoticia()">
 
-    <h1>{{noticiaDetalle.titulo}}</h1>
-    <img src={{noticiaDetalle.img}}>
-    <h4><p ng-bind-html="noticiaDetalle.descripcion | linky "> </p></h4>
+    <div class="col-sm-5 col-sm-offset-2 col-md-12 col-md-offset-0">
+        <div class="clearfix">
+            <div id="contenidoDetalle">
+                <h2><u>{{noticiaDetalle.titulo}}</u></h2>
+                <img src={{noticiaDetalle.img}}>
+                <h4><p ng-bind-html="noticiaDetalle.descripcion | linky "> </p></h4>
+                <p> Fecha: {{noticiaDetalle.fecha}}</p>
+                <p id="atras"><a href="#/noticias">&lt;&lt; Atrás</a> </p>
+            </div>
+        </div>
+    </div>
 
 </div>
 

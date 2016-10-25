@@ -6,8 +6,12 @@ body {
 	background-color: #21425c;
 }
 
-a {
-    color: #00B7FF;
+a, h2 {
+    color: #21425c;
+}
+
+h4 {
+    color: #E6FDFF;
 }
 
 .submit-btn {
@@ -23,10 +27,11 @@ a {
 
 .odd {
     background-color: #db8f59;
-
+    border-radius: 10px;
 }
 .even {
-    background-color: #db7959;
+    background-color: #db6e59;
+    border-radius: 10px;
 }
 
 .form-auth {
@@ -42,24 +47,25 @@ a {
 div#json {
   background-color: #373737;
   color: white;
-
 }
 
 div#contenido {
   background-color: #db6e59;
   color: white;
-   
+    border-radius: 10px;
 }
 
 h4, h2 , p, a, img{
 	padding-left: 10px;
     padding-bottom: 5px;
     padding-top: 5px;
+    padding-right: 5px;
 }
 
 #logo {
-	padding-left:400px;
+	padding-left:430px;
 }
+
 #logo img{
 	width: 360px;
 	height: 100px;
@@ -67,4 +73,36 @@ h4, h2 , p, a, img{
 
 dir-pagination-controls {
     padding-left: 10px;
+}
+
+#contenidoDetalle {
+    border-radius: 10px;
+    background-color: #db6e59;
+}
+
+#contenidoDetalle img{
+    float: left;
+    margin-right: 10px;
+    border-radius: 10%;
+}
+
+#contenidoDetalle h2{
+    color: #21425c;
+}
+
+#contenidoDetalle p{
+    color: #E6FDFF;
+}
+
+h2:hover , a:hover {
+    color: #E6FDFF;
+}
+
+#atras {
+    bottom:0px;
+    left:0px;
+}
+
+#contenido img {
+    border-radius: 10%;
 }
