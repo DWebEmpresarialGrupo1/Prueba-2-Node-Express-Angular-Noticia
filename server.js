@@ -54,14 +54,6 @@ app.get('/', function (req, res){
     res.sendFile(path.join(__dirname + '/public/main.html'));
 });
 
-app.get('/noticias', function (req, res){
-    res.sendFile(path.join(__dirname + '/public/views/noticias.html'));
-});
-
-app.get('/detalleNoticia', function (req, res){
-    res.sendFile(path.join(__dirname + '/public/views/DetalleNoticia.html'));
-});
-
 app.listen( port, function(){
    console.log('Servidor Corriendo en puerto: ' + port); 
 });

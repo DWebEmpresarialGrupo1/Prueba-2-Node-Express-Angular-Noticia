@@ -4,34 +4,39 @@
      "titulo": "DGE invita a participar en Expo Beneficios 2016",
      "fecha": "23/09/2016 14:32",
      "descripcion": "Iniciativa se llevará a cabo este jueves 27 de octubre en la Casa Central con el objetivo de difundir los procesos de postulación a beneficios gubernamentales 2017, la Dirección General Estudiantil (DGE), a través de su Área Social, invita a los estudiantes de la Casa Central a participar este jueves 27 de octubre en la Expo Beneficios 2016. En su primera versión, esta feria busca entregar conocimientos sobre los procesos de postulación a gratuidad, becas y crédito con aval del Estado, además de orientar a los jóvenes para realizar la renovación de sus beneficios. La cita es para este jueves a partir de las 10:00 horas en la Explanada del Pabellón R. En la oportunidad, participarán entidades como Junaeb, Ministerio de Desarrollo Social, Edenred y Comunidad Ayllú; además del Programa Internacional Estudiantil (PIE), Programa Éxito Académico, FeUCN, Área de Salud y Jardín Taqinki.",
-     "img": "img/salidaUCN.jpg"
+     "img": "img/salidaUCN.jpg",
+	 "url": "http://www.noticias.ucn.cl/destacado/dge-invita-a-participar-en-expo-beneficios-2016/"
     },
     {
      "id": "2",
      "titulo": "Detalles únicos sobre el poblamiento de Antofagasta expondrán en la Casa Central",
      "fecha": "25/09/2016 15:32",
      "descripcion": "Seminario con entrada liberada estará abierto a toda la comunidad antofagastina. Detalles únicos sobre la historia regional se darán a conocer en el seminario 'A 150 años del poblamiento de Antofagasta y el tratado de límites entre Chile y Bolivia 1866-2016', que estará abierto a la comunidad local en la Casa Central de nuestra Universidad. El encuentro, que tendrá lugar el martes 25 de octubre, a partir de las 9:30 horas, en el Auditorio Andrés Sabella, busca ser un punto de convergencia entre distintos hechos ocurridos en la zona y que marcan la génesis de la ciudad. Entre estos acontecimientos resalta el arribo del explorador Juan López al sector de Peña Blanca, La Chimba, para dar inicio al poblamiento de lo que hoy es la ciudad de Antofagasta, así como la firma del primer tratado de límites chileno-boliviano, ocurrido hace un siglo y medio.",
-     "img": "img/antofagasta.jpg"
+     "img": "img/antofagasta.jpg",
+	 "url": "http://www.noticias.ucn.cl/noticias/beneficios/detalles-unicos-sobre-el-poblamiento-de-antofagasta-expondran-en-la-casa-central/"
     },
     {
      "id": "3",
      "titulo": "Con gran participación se desarrollaron Talleres de Identidad UCN 2016",
      "fecha": "25/09/2016 14:32",
      "descripcion": "Alrededor de 200 personas asistieron a las jornadas de reflexión efectuadas en la Casa Central. Como parte del Plan de Desarrollo Corporativo (PDC) 2015-2019 de la Universidad Católica del Norte, la Comisión Ejecutiva de Identidad realizó esta semana en la Casa Central los Talleres de Identidad UCN 2016, jornadas de reflexión que buscaron recoger la percepción de la Comunidad Universitaria sobre nuestra Casa de Estudios. El objetivo de estos encuentros fue generar información, por medio de procesos participativos con personas de diversas áreas y departamentos, para fortalecer la identidad institucional de la UCN.",
-     "img": "img/talleresIndentidad.jpg"
+     "img": "img/talleresIndentidad.jpg",
+	 "url": "http://www.noticias.ucn.cl/destacado/con-gran-participacion-se-desarrollaron-talleres-de-identidad-ucn-2016/"
     },
     {
      "id": "4",
      "titulo": "Centro de Salud Estudiantil y Vive UCN celebran Día de la Alimentación",
      "fecha": "24/10/2016 11:10",
      "descripcion": "Los alumnos que participaron de la iniciativa pudieron disfrutar de una fruta o probar aguas saborizadas, ideales para el verano que se acerca. Nuestra casa de estudios celebró el pasado 13 de octubre el Día de la Alimentación y se sumó así a la iniciativa de la Red de Universidad Promotoras de Salud. La actividad fue encabezada por la nutricionista Carmen Gloria Ortiz, del Centro De Salud Estudiantil UCN Coquimbo, y apoyada por la Política Vive UCN. Fue así como los estudiantes, funcionarios y académicos pudieron disfrutar de fruta, agua y medir sus índices de grasa, además de pesarse y consejos a cargo de Newrest y Eden Red que estuvieron presentes en la actividad que se llevó a cabo en el sector de la explanada de biblioteca.",
-     "img": "img/centroestudi.jpg"
+     "img": "img/centroestudi.jpg",
+	 "url": "http://www.noticias.ucn.cl/noticias/estudiantes/centro-de-salud-estudiantil-y-vive-ucn-celebran-dia-de-la-alimentacion/"
     },
     {
      "id": "5",
      "titulo": "UCN apoyará a deportistas que participarán en los JUDEJUT",
      "fecha": "24/10/2016 12:10",
      "descripcion": "Jóvenes entrenarán en instalaciones de la universidad durante el verano. Apoyar a los deportistas de la Segunda Región, brindándoles espacios para que puedan entrenar, fue el compromiso que asumió nuestra Universidad al abrir sus puertas a los jóvenes que participarán en los Juegos de la Juventud Trasandina (JUDEJUT) 2017. A raíz de una solicitud efectuada por la Secretaría Regional Ministerial del Deporte, la UCN recogió los requerimientos para apoyar a los deportistas en las ramas de baloncesto y vóleibol.",
-     "img": "img/judejut.jpg"
+     "img": "img/judejut.jpg",
+	 "url": "http://www.noticias.ucn.cl/destacado/ucn-apoyara-a-deportistas-que-participaran-en-los-judejut/"
     }
 ]

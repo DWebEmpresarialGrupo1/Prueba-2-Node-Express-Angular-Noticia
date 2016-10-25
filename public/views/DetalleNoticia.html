@@ -9,7 +9,8 @@
                 <h2><u>{{noticiaDetalle.titulo}}</u></h2>
                 <img src={{noticiaDetalle.img}}>
                 <h4><p ng-bind-html="noticiaDetalle.descripcion | linky "> </p></h4>
-                <p> Fecha: {{noticiaDetalle.fecha}}</p>
+                <p>Fecha: {{noticiaDetalle.fecha}}</p>
+                <h5><p ng-bind-html="noticiaDetalle.url | linky"></p></h5>
                 <p id="atras"><a href="#/noticias">&lt;&lt; Atrás</a> </p>
             </div>
         </div>
